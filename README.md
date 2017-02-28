@@ -1,5 +1,4 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE HTML><html>
 <head>
 <title>Love made memory saved</title>
 <style type="text/css">
@@ -33,8 +32,8 @@ table tr td,th{border:1px solid #000;}
         <p>&nbsp;&nbsp;&nbsp;&nbsp;他使劲瞪着她，摘下帽子。他起码高她半头，若上来搂她，肯定很有架式了。他四肢修长，所有关节都显得过分的大，似乎一切都为他的下一步成长预告占好地盘。脖子还是儿童的，喉节却是男人的。他把两个胳膊肘搁到桌面上，意识到桌子的污秽，又缩回去。他露出儿童的手足无措。</p>
     </div>
     <div id="paiming">
-    <h2>排名：</h2>
-    <ol>
+    <h2>排名</h2>
+    <ol>
         <li>李四</li>
         <li>张三</li>
         <li>王五</li>
@@ -64,8 +63,7 @@ table tr td,th{border:1px solid #000;}
         </tr>
     </table>
     </div>
-    <div id="tougao">
-        <h2>投稿</h2>
+    <p></p>
     <form methodd="post"  action="save.php" name="iForm">
         <label for="address">请输入邮箱地址：</label>
         <input type="text" name="address"/>
@@ -112,6 +110,5 @@ table tr td,th{border:1px solid #000;}
          <textarea cols="10" rows="5">这是一个多行输入框，请在这里输入你的个人简介</textarea>
          <input type="submit" value="确定" name="submit"/>
     </form>
-    </div>
 </body>
 </html>
